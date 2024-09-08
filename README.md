@@ -1,1 +1,1 @@
-# Rubiks-Cube-Astar-Algorithm
+Artificial Intelligence Project
